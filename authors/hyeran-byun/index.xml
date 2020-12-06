@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hyeran Byun | Pilhyeon Lee</title>
+    <link>https://pilhyeon.github.io/authors/hyeran-byun/</link>
+      <atom:link href="https://pilhyeon.github.io/authors/hyeran-byun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hyeran Byun</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Feb 2021 12:00:00 +0900</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Hyeran Byun</title>
+      <link>https://pilhyeon.github.io/authors/hyeran-byun/</link>
+    </image>
+    
+    <item>
+      <title>Weakly-supervised Temporal Action Localization by Uncertainty Modeling</title>
+      <link>https://pilhyeon.github.io/publication/2021_aaai_uncertainty-modeling/</link>
+      <pubDate>Tue, 02 Feb 2021 12:00:00 +0900</pubDate>
+      <guid>https://pilhyeon.github.io/publication/2021_aaai_uncertainty-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Transferable Knowledge for Fairness-aware Image Classification</title>
+      <link>https://pilhyeon.github.io/publication/2020_accv_transferable-fairness/</link>
+      <pubDate>Mon, 30 Nov 2020 12:00:00 +0900</pubDate>
+      <guid>https://pilhyeon.github.io/publication/2020_accv_transferable-fairness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Background Suppression Network for Weakly-supervised Temporal Action Localization</title>
+      <link>https://pilhyeon.github.io/publication/2020_aaai_bas-net/</link>
+      <pubDate>Fri, 07 Feb 2020 12:00:00 +0900</pubDate>
+      <guid>https://pilhyeon.github.io/publication/2020_aaai_bas-net/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

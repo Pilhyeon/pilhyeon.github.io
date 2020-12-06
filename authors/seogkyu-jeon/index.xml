@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seogkyu Jeon | Pilhyeon Lee</title>
+    <link>https://pilhyeon.github.io/authors/seogkyu-jeon/</link>
+      <atom:link href="https://pilhyeon.github.io/authors/seogkyu-jeon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Seogkyu Jeon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Nov 2020 12:00:00 +0900</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Seogkyu Jeon</title>
+      <link>https://pilhyeon.github.io/authors/seogkyu-jeon/</link>
+    </image>
+    
+    <item>
+      <title>Exploiting Transferable Knowledge for Fairness-aware Image Classification</title>
+      <link>https://pilhyeon.github.io/publication/2020_accv_transferable-fairness/</link>
+      <pubDate>Mon, 30 Nov 2020 12:00:00 +0900</pubDate>
+      <guid>https://pilhyeon.github.io/publication/2020_accv_transferable-fairness/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
