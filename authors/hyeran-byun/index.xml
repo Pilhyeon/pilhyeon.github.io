@@ -5,12 +5,20 @@
     <link>https://pilhyeon.github.io/authors/hyeran-byun/</link>
       <atom:link href="https://pilhyeon.github.io/authors/hyeran-byun/index.xml" rel="self" type="application/rss+xml" />
     <description>Hyeran Byun</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 12:00:00 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 12:00:00 +0900</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Hyeran Byun</title>
       <link>https://pilhyeon.github.io/authors/hyeran-byun/</link>
     </image>
+    
+    <item>
+      <title>Feature Stylization and Domain-aware Contrastive Learning for Domain Generalization</title>
+      <link>https://pilhyeon.github.io/publication/2021_mm_domain-generalization/</link>
+      <pubDate>Fri, 01 Oct 2021 12:00:00 +0900</pubDate>
+      <guid>https://pilhyeon.github.io/publication/2021_mm_domain-generalization/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Continuous Face Aging Generative Adversarial Networks</title>

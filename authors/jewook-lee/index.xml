@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kibeom Hong | Pilhyeon Lee</title>
-    <link>https://pilhyeon.github.io/authors/kibeom-hong/</link>
-      <atom:link href="https://pilhyeon.github.io/authors/kibeom-hong/index.xml" rel="self" type="application/rss+xml" />
-    <description>Kibeom Hong</description>
+    <title>Jewook Lee | Pilhyeon Lee</title>
+    <link>https://pilhyeon.github.io/authors/jewook-lee/</link>
+      <atom:link href="https://pilhyeon.github.io/authors/jewook-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jewook Lee</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 12:00:00 +0900</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Kibeom Hong</title>
-      <link>https://pilhyeon.github.io/authors/kibeom-hong/</link>
+      <title>Jewook Lee</title>
+      <link>https://pilhyeon.github.io/authors/jewook-lee/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://pilhyeon.github.io/publication/2021_mm_domain-generalization/</link>
       <pubDate>Fri, 01 Oct 2021 12:00:00 +0900</pubDate>
       <guid>https://pilhyeon.github.io/publication/2021_mm_domain-generalization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Continuous Face Aging Generative Adversarial Networks</title>
-      <link>https://pilhyeon.github.io/publication/2021_icassp_cfa-gan/</link>
-      <pubDate>Tue, 01 Jun 2021 12:00:00 +0900</pubDate>
-      <guid>https://pilhyeon.github.io/publication/2021_icassp_cfa-gan/</guid>
       <description></description>
     </item>
     
